@@ -71,7 +71,7 @@ def card(title: str, context: str):
 
     
 st.write("""
-# Medical Semantic Search
+# Medical Semantic Text Search
 """)
 
 st.info("""
