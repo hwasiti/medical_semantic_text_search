@@ -76,6 +76,7 @@ st.write("""
 
 st.info("""
 * Multilingual DL model: trained on parallel data for 50+ languages (ar, bg, ca, cs, da, de, el, en, es, et, fa, fi, fr, fr-ca, gl, gu, he, hi, hr, hu, hy, id, it, ja, ka, ko, ku, lt, lv, mk, mn, mr, ms, my, nb, nl, pl, pt, pt-br, ro, ru, sk, sl, sq, sr, sv, th, tr, uk, ur, vi, zh-cn, zh-tw).
+* Source code available on [GitHub](https://github.com/hwasiti/medical_semantic_text_search)
 * Contact for more information: Haider Alwasiti at: [haider.alwasiti@helsinki.fi](mailto:haider.alwasiti@helsinki.fi)
 """)
 
